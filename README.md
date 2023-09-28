@@ -1,2 +1,2 @@
-# full-stack-template
-Template for full stack website development.
+# Full-stack template
+This a starter repository I use when creating new full-stack web development projects.
